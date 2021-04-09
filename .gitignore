@@ -1,0 +1,10 @@
+/.devcontainer
+/10-Advanced-HCL
+/11-Importing-Existing-Infrastructure
+/12-CI-CD-Pipelines
+/6-Provisioners
+/7-Variables
+/8-RemoteState
+/9-Modules
+/azure-pipelines.yml
+/README.md
